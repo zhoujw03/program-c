@@ -8,7 +8,7 @@ Ciao! Questo è il mio primo repository su GitHub. Qui sto raccogliendo tutto qu
 
 ### 🌐 Lingue / Languages / 语言
 <details>
-<summary>点击查看中文版 (Versione Cinese)</summary>
+<summary>点击查看中文版 </summary>
 
 ### 🎯 我在学什么？
 这是我的第一个 GitHub 仓库，记录我从零开始学习 **C 语言**的历程。
@@ -39,9 +39,4 @@ This is my first GitHub repository, documenting my journey learning **C** from s
 
 ---
 
-### 🛠️ Come far girare i miei programmi? (IT)
-1. **Compila (Compile):** `gcc nome_file.c -o programma`
-2. **Esegui (Run):** `./programma`
-
----
 *Fatto con impegno da un principiante.* 👨‍💻
