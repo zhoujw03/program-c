@@ -4,6 +4,20 @@ Ciao! Questo è il mio primo repository su GitHub. Qui sto raccogliendo tutto qu
 
 > "Ogni grande programmatore ha iniziato con un Hello World!" 🚀
 
+### 🎯 Cosa sto imparando?
+In questo spazio pubblico i miei progressi. Il mio obiettivo è:
+* Capire come funziona un computer.
+* Scrivere piccoli programmi semplici.
+* Imparare la logica della programmazione.
+
+---
+
+### 📂 Cosa troverai qui?
+Ho diviso i miei esercizi in modo molto semplice:
+* **`Basi`**: I miei primi passi (stampare testo, fare calcoli).
+* **`Esercizi`**: Piccoli programmi come calcolatrici o giochi.
+* **`Compiti`**: Le soluzioni ai miei esercizi di studio.
+
 ---
 
 ### 🌐 Lingue / Languages / 语言
