@@ -61,7 +61,9 @@ git push origin main （把包扔到服务器上）
 
 进阶小贴士
 
-git log：查看提交历史，看看大家都干了啥。
+git log：查看详细提交历史，看看大家都干了啥。
+
+git log --oneline ：快速的查看过去的提交记录
 
 git diff：查看具体的代码行改动。
 
