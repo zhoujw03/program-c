@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+// 只需包含汇总的头文件，无需逐个包含子头文件
 #include "libarith.h"
 
 int main(){
