@@ -29,6 +29,13 @@ gcc -shared add.o sub.o -o libarith.so
 ```
 **命名规范**：动态库建议以`lib`开头，后缀为`.so`，便于系统识别。
 
+快捷命令：gcc 可以自动帮你完成 “编译 + 链接” 两步
+
+```bash
+#在mac里建议添加 -fPIC
+gcc add.c sub.c -shared -o libarith.so
+```
+
 ## 二、调用.so动态库（核心流程）
 调用动态库的核心依赖`dlfcn.h`头文件，需使用`dlopen`/`dlsym`/`dlclose`等函数，步骤如下：
 
