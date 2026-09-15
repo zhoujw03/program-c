@@ -1,0 +1,12 @@
+# 拦截 Java 相关的缓存和配置文件
+java/.idea/
+java/out/
+java/*.iml
+
+# 拦截 Visual Studio 的缓存和配置文件
+.vs/
+x64/
+Debug/
+Release/
+*.slnx.sqlite
+.DS_Store
