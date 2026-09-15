@@ -1,12 +1,19 @@
-# 拦截 Java 相关的缓存和配置文件
-java/.idea/
-java/out/
-java/*.iml
+# 拦截所有地方的 JetBrains 配置文件和编译输出
+.idea/
+**/_idea/
+out/
+**/out/
+*.iml
+**/*.iml
 
-# 拦截 Visual Studio 的缓存和配置文件
+# 拦截所有地方的 Visual Studio 相关文件
 .vs/
+**/_vs/
 x64/
 Debug/
 Release/
-*.slnx.sqlite
+*.sqlite
+**/*.sqlite
+
+# 系统文件
 .DS_Store
